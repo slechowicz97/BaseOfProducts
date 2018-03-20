@@ -1,0 +1,2 @@
+# BaseOfProducts
+Simple C++ app 
